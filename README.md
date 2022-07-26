@@ -1,4 +1,4 @@
-# Supersimple.dev button exercise
+# Supersimple.dev text styles exercise
 
 This is a solution to the [Supersimple.dev Lesson 5 Exercise - CSS Basics](https://youtu.be/G3e-cpL7ofc) at the @152:02 mark.
 
@@ -29,13 +29,7 @@ Recreate text styles from Apple, Gmail, and stock listings.
 - CSS custom properties
 
 ### What I learned
- 
-
-```css
-.button-transition {
-  transition: opacity 0.15s;
-}
-```
+I learned how to use html entities and using the text element span to target parts of text. I also learned how to add spacing within text using span and margin.
 
 ## Acknowledgments
 Thank you to SuperSimpleDev for creating interesting and practical web development exercises and solutions! :)

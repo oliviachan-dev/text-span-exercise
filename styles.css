@@ -1,0 +1,87 @@
+p {
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-top: 0;
+    margin-bottom: 0; 
+}
+.tahoma-text {
+    font-family: Tahoma;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.biggest-deals {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    width: 300px;
+    margin-bottom: 5px;;
+}
+.sales-end {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(227, 65, 64);
+    font-style: italic;
+    margin-bottom: 40px;
+}
+.html-course {
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: bold; 
+    margin-bottom: 3px;
+}
+.html-level {
+    font-family: Verdana;
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 18px;
+}
+.course-description {
+    font-family: Verdana;
+    font-size: 13px;
+    width: 250px;
+    margin-bottom: 16px;
+}
+.get-started {
+    background-color: rgb(2, 149, 2);
+    border: none;
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 5px;
+    margin-left: 0px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    margin-bottom: 40px;
+}
+.get-started:hover {
+    opacity: 0.8;
+}
+.apple-question {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    width: 340px;
+
+}
+.apple-solution {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 340px;
+    font-size: 14px;
+    margin-bottom: 16px;
+}
+.apple-learn-more {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 340px;
+    text-align: center;
+    font-size: 14px;
+    color: rgb(32, 121, 244);
+    transition: text-decoration 1.5s;
+    cursor: pointer; 
+    margin-bottom: 40px;
+}
+.apple-learn-more:hover {
+    text-decoration: underline;
+}
