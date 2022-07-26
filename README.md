@@ -16,7 +16,7 @@ This is a solution to the [Supersimple.dev Lesson 5 Exercise - CSS Basics](https
 Goal of this exercise to recreate common text styles as seen on Apple, Google, and other pages without viewing web tools or existing solutions. 
 
 ### The challenge
-Recreate text styles from Apple, Gmail, and stock listings. 
+Recreate text styles from Apple, Google, and Twitter.
 
 ### Links
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
