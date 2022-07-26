@@ -22,7 +22,7 @@ Recreate text styles from Apple, Google, and Twitter.
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-
+My general process was creating HTML elements and styling the text with css, then the html entities. 
 
 ### Built with
 - Semantic HTML5 markup
