@@ -3,12 +3,14 @@ p {
     margin-top: 0;
     margin-bottom: 0; 
 }
+
 .tahoma-text {
     font-family: Tahoma;
     font-size: 22px;
     font-weight: bold;
     margin-bottom: 40px;
 }
+
 .biggest-deals {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
@@ -16,30 +18,35 @@ p {
     width: 300px;
     margin-bottom: 5px;;
 }
+
 .sales-end {
     font-family: Arial, Helvetica, sans-serif;
     color:rgb(227, 65, 64);
     font-style: italic;
     margin-bottom: 40px;
 }
+
 .html-course {
     font-family: Verdana;
     font-size: 16px;
     font-weight: bold; 
     margin-bottom: 3px;
 }
+
 .html-level {
     font-family: Verdana;
     font-size: 14px;
     color: gray;
     margin-bottom: 18px;
 }
+
 .course-description {
     font-family: Verdana;
     font-size: 13px;
     width: 250px;
     margin-bottom: 16px;
 }
+
 .get-started {
     background-color: rgb(2, 149, 2);
     border: none;
@@ -54,9 +61,11 @@ p {
     transition: opacity 0.15s;
     margin-bottom: 40px;
 }
+
 .get-started:hover {
     opacity: 0.8;
 }
+
 .apple-question {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
@@ -65,6 +74,7 @@ p {
     width: 340px;
 
 }
+
 .apple-solution {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
@@ -72,6 +82,7 @@ p {
     font-size: 14px;
     margin-bottom: 16px;
 }
+
 .apple-learn-more {
     font-family: Arial, Helvetica, sans-serif;
     width: 340px;
@@ -82,6 +93,65 @@ p {
     cursor: pointer; 
     margin-bottom: 40px;
 }
+
 .apple-learn-more:hover {
     text-decoration: underline;
+}
+
+.new {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(228, 129, 79);
+    font-size: 12px;
+    font-weight: bold;
+    width: 340px; 
+    text-align: center;
+    margin-bottom: 3px;
+}
+.macbook-pro {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 340px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.supercharged-for-pros {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    width: 340px;
+    text-align: center; 
+    margin-bottom: 8px;
+}
+
+.price {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 340px;
+    text-align: center;
+    color: rgb(116, 116, 116);
+    margin-bottom: 8px;
+}
+
+.button-center {
+    width: 340px;
+    text-align: center;
+}
+
+.buy{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(32, 121, 244);
+    color: white;
+    border: none; 
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 9px;
+    padding-right: 9px;
+    border-radius: 9px;
+    cursor: pointer;
+    transition: opacity 1.5s;
+    margin-bottom: 40px;
+}
+.buy:hover {
+    opacity: 0.6;
 }
