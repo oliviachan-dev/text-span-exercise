@@ -19,7 +19,7 @@ Goal of this exercise to recreate common text styles as seen on Apple, Google, a
 Recreate text styles from Apple, Google, and Twitter.
 
 ### Links
-- Live Site URL: https://oliviachan-dev.github.io/text-span-exercise/
+- Live Site URL (click here to see my solution): https://oliviachan-dev.github.io/text-span-exercise/
 
 ## My process
 My general process was creating HTML elements and styling the text with css, then the html entities. 
